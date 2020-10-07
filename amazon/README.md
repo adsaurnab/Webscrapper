@@ -14,4 +14,4 @@ You can get the data for the above links layout type.
 You will get the Title, Price, Details, About and Images  of those links
 
 Created at september 2020.
-Might not work later when the front end code changes.
+Might not work later when the front end code and layout changes.
